@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/NamVr/namvr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my GitHub Profile! This is Naman Vrati, Owner of [NamVr Tech](https://namanvrati.cf) and it's alliance services.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NamVr/namvr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on: Nyaru Discord Bot, My Main Website.
+- 🌱 I’m currently learning: Python, PHP, API, AI-ML
+- 👯 I’m looking to collaborate on: Well nothing right now.
+- 🤔 I’m looking for help with: Nothing :)
+- 💬 Ask me about: Anything! Ding me on discord: allroundernaman#3915
+- 📫 How to reach me: Discord or Email: [info@namanvrati.cf](mailto:info@namanvrati.cf)
+- 😄 Pronouns: Male, He/Him
+- ⚡ Fun fact: Nothing Funny, another 16 y/o kid coding, mainly web based things.
